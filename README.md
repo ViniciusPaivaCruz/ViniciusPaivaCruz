@@ -6,7 +6,9 @@ Hello, I'm Vinícius 👋
 ![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPaivaCruz&show_icons=true&theme=merko)
 
 
-Tecnologias que eu utilizo
-<div>
+- TECNOLOGIAS QUE EU UTILIZO:
+<div style="Display: flex;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
